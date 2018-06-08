@@ -1,0 +1,1 @@
+{"data_type": "iid", "p1": 0.5, "n1": 0.0, "Entropy": 1.0}
